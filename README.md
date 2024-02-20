@@ -1,12 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Willian Rocha</h1>
 <h3 align="center">Apaixonado por tecnologia, dados, video games, música e cultura pop</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Power BI**
-
-- 💬 Me pergunte sobre **Python, SQL, Power BI**
-
-- 📫 Você me encontra através do e-mail **uilaan32@gmail.com**
-
 - 📄 Experiências profissionais [https://www.linkedin.com/in/willian-rochap/](https://www.linkedin.com/in/willian-rochap/)
 
 <h3 align="left">Conecte-se comigo:</h3>

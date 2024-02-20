@@ -1,12 +1,9 @@
-<h1 align="center">Oi 👋, Eu sou o Willian Rocha</h1>
+<h1 align="center"> Eai🤓 </h1>
 <h3 align="center">Apaixonado por tecnologia, dados, video games, música e cultura pop</h3>
 
-- 📄 Linkedin [https://www.linkedin.com/in/willian-rochap/](https://www.linkedin.com/in/willian-rochap/)
-
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/willian-rochap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/willian-rochap/" height="30" width="40" /></a>
-<a href="https://instagram.com/w1llrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w1llrocha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
